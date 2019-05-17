@@ -1,3 +1,3 @@
 <h1>"Photo Album"</h1>
 
-<p>https://www.google.com/search?q=dog+photos&safe=strict&rlz=1C1GCEA_enUS849US849&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjaiNja1qPiAhWorFQKHfcrAJQQ_AUIDigB&biw=1920&bih=937#imgrc=255uAoekux2IJM:<p>
+<p>https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwihsOrF2KPiAhU9HzQIHWq8B7wQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fportrait-of-a-dog-257540%2F&psig=AOvVaw1zdJvlnncquStUm4-1G8Ss&ust=1558221224026661<p>
